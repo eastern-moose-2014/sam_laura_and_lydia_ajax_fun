@@ -10,3 +10,5 @@ post '/sams_fun_route' do
   # formulate some HTML with that thing and send the HTML as a response to the AJAX request
   "<h1>GIANT DIV #{inserted.thing}</h1>"
 end
+
+
